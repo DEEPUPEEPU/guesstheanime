@@ -1,0 +1,31 @@
+/* src/App.css */
+.naruto-theme {
+  text-align: center;
+  background-color: #f3f3f3;
+  font-family: Arial, sans-serif;
+  color: #333;
+  padding: 20px;
+}
+
+header {
+  background-color: #f57c00;
+  padding: 20px;
+  color: white;
+}
+
+main {
+  padding: 20px;
+}
+
+.naruto-image img {
+  max-width: 100%;
+  height: auto;
+}
+
+.naruto-quote {
+  margin-top: 20px;
+}
+
+footer {
+  margin-top: 20px;
+}
